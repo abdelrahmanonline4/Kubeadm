@@ -45,3 +45,4 @@ kubectl get nodes
 ![WhatsApp Image 2024-09-17 at 13 22 26_d72e9163](https://github.com/user-attachments/assets/757971e4-6508-4110-8aca-8cccb78891be)
 
 
+ # If there are any problems, use vagrant reload
